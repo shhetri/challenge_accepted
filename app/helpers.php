@@ -26,7 +26,7 @@
     }
 
     /**
-     * @brief Gets the total amount for the contract with status
+     * @brief Gets the total amount for the awarded contract with status 'Current'
      * @param $lists
      * @param $status
      * @return int
