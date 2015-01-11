@@ -1,7 +1,7 @@
 <?php
 
     /**
-     * @brief    write brief description
+     * @brief    Joins contract and awarded lists
      * @param array $contracts_list
      * @param array $awards_list
      * @return array
